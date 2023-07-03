@@ -1,0 +1,29 @@
+body {font-family: "David CLM", "Arial", "Helvetica",
+sans-serif; color: rgb(65, 55, 26);
+font-size: 18px; background-image: url("bckground.jpg");  }
+hr {border:0; height: 12px; box-shadow:inset 0 12px 12px -12px rgba(0,0,0,0.5);}
+h1 {font-size: 26px}
+h2 {font-size: 20px}
+
+ul {list-style-type: square}
+ul ul {list-style-type: disc}
+ul ul ul {list-style-type: circle}
+ol {list-style-type: upper-roman}
+
+a:link {color: rgb(60, 60, 135)}
+a:visited {color: rgb(85,85,85)}
+a:hover {color: rgb(205,115,0)}
+a:active {color: rgb(207,91,92)}
+
+p {text-indent: 0px;    line-height: 1.75;    padding-left: 20px; padding-right: 20px;} 
+
+span.c5 { font-size: 260%; font-family: David CLM; text-shadow: 6px 6px 6px #666; }
+span.c4 { font-size: 206%; font-family: David CLM; text-shadow: 5px 5px 5px #777; }
+span.c3 { font-size: 154%; font-family: David CLM; text-shadow: 4px 4px 4px #777; }
+#span.c2 { font-size: 92%; font-family: David CLM; text-shadow: 3px 3px 3px #777; }
+span.c2 { font-size: 92%; font-family: David CLM; text-shadow: 1px 1px 1px #888;}
+span.c1 { font-size: 82%; font-family: David CLM; text-shadow: 1px 1px 1px #888;}
+
+
+
+
